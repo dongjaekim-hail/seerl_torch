@@ -1,2 +1,2 @@
-# seerl_torch
-torch implementation of seerl (not official) 
+# seerl_torch (under construction)
+This is torch implementation of seerl (not official) 
